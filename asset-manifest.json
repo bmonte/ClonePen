@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/clonepen/static/css/main.037b0735.chunk.css",
-    "main.js": "/clonepen/static/js/main.c81fe0f9.chunk.js",
-    "main.js.map": "/clonepen/static/js/main.c81fe0f9.chunk.js.map",
-    "runtime-main.js": "/clonepen/static/js/runtime-main.672cabb7.js",
-    "runtime-main.js.map": "/clonepen/static/js/runtime-main.672cabb7.js.map",
-    "static/css/2.c46397a6.chunk.css": "/clonepen/static/css/2.c46397a6.chunk.css",
-    "static/js/2.c3270224.chunk.js": "/clonepen/static/js/2.c3270224.chunk.js",
-    "static/js/2.c3270224.chunk.js.map": "/clonepen/static/js/2.c3270224.chunk.js.map",
-    "index.html": "/clonepen/index.html",
-    "precache-manifest.bd672d6a8b3d1dca1526a29cecd95b2f.js": "/clonepen/precache-manifest.bd672d6a8b3d1dca1526a29cecd95b2f.js",
-    "service-worker.js": "/clonepen/service-worker.js",
-    "static/css/2.c46397a6.chunk.css.map": "/clonepen/static/css/2.c46397a6.chunk.css.map",
-    "static/css/main.037b0735.chunk.css.map": "/clonepen/static/css/main.037b0735.chunk.css.map",
-    "static/js/2.c3270224.chunk.js.LICENSE.txt": "/clonepen/static/js/2.c3270224.chunk.js.LICENSE.txt"
+    "main.css": "/ClonePen/static/css/main.037b0735.chunk.css",
+    "main.js": "/ClonePen/static/js/main.64564abc.chunk.js",
+    "main.js.map": "/ClonePen/static/js/main.64564abc.chunk.js.map",
+    "runtime-main.js": "/ClonePen/static/js/runtime-main.69d0200c.js",
+    "runtime-main.js.map": "/ClonePen/static/js/runtime-main.69d0200c.js.map",
+    "static/css/2.c46397a6.chunk.css": "/ClonePen/static/css/2.c46397a6.chunk.css",
+    "static/js/2.c3270224.chunk.js": "/ClonePen/static/js/2.c3270224.chunk.js",
+    "static/js/2.c3270224.chunk.js.map": "/ClonePen/static/js/2.c3270224.chunk.js.map",
+    "index.html": "/ClonePen/index.html",
+    "precache-manifest.19a017f9c4da07c1c47a04012252a5e6.js": "/ClonePen/precache-manifest.19a017f9c4da07c1c47a04012252a5e6.js",
+    "service-worker.js": "/ClonePen/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/ClonePen/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.037b0735.chunk.css.map": "/ClonePen/static/css/main.037b0735.chunk.css.map",
+    "static/js/2.c3270224.chunk.js.LICENSE.txt": "/ClonePen/static/js/2.c3270224.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.672cabb7.js",
+    "static/js/runtime-main.69d0200c.js",
     "static/css/2.c46397a6.chunk.css",
     "static/js/2.c3270224.chunk.js",
     "static/css/main.037b0735.chunk.css",
-    "static/js/main.c81fe0f9.chunk.js"
+    "static/js/main.64564abc.chunk.js"
   ]
 }
